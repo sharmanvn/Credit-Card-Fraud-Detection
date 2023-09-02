@@ -7,5 +7,5 @@ Model Training: We trained a Logistic Regression classifier,Random Forest Classi
 
 Model Evaluation: The model's performance was evaluated using accuracy, a confusion matrix, and a classification report. Accuracy provides an overall measure of correct predictions, while the confusion matrix and classification report offer a detailed breakdown of model performance, including precision, recall, F1-score, and support.
 
-Results: The model achieved an accuracy of [insert accuracy value], indicating its ability to correctly classify transactions as fraudulent or non-fraudulent.
+Results: The model achieved an accuracy of [94%], indicating its ability to correctly classify transactions as fraudulent or non-fraudulent.
 In conclusion, credit card fraud detection is crucial for financial institutions and consumers alike. While this report presents a basic implementation, further refinement and exploration of advanced techniques are essential for building robust and effective fraud detection systems.
